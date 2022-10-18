@@ -10,3 +10,9 @@ https://github.com/IvanovIgorb/traineeship/blob/main/image1.png
 
 GIT. Задача 3
 Ссылка: https://www.sololearn.com/certificates/CT-ESIGRKEV
+
+GIT. Задача 4
+Ссылка: https://github.com/IvanovIgorb/traineeship/blob/main/image2.jpg
+
+GIT. Задача 5
+Ссылка: https://www.sololearn.com/certificates/CT-ZUZUJXJ0
