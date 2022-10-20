@@ -8,11 +8,14 @@ https://github.com/IvanovIgorb/traineeship/blob/main/image.png
 Ссылка на скриншот:
 https://github.com/IvanovIgorb/traineeship/blob/main/image1.png
 
-GIT. Задача 3
+MYSQL. Задача 3
 Ссылка: https://www.sololearn.com/certificates/CT-ESIGRKEV
 
-GIT. Задача 4
+MYSQL. Задача 4
 Ссылка: https://github.com/IvanovIgorb/traineeship/blob/main/image2.jpg
 
-GIT. Задача 5
+PHP. Задача 5
 Ссылка: https://www.sololearn.com/certificates/CT-ZUZUJXJ0
+
+PHP. Задача 6
+Ссылка: https://github.com/IvanovIgorb/taskslist
