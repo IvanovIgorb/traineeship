@@ -19,3 +19,6 @@ PHP. Задача 5
 
 PHP. Задача 6
 Ссылка: https://github.com/IvanovIgorb/taskslist
+
+PHP. ООП Задача 7
+Ссылка: https://github.com/IvanovIgorb/Planes
