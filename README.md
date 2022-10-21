@@ -22,3 +22,6 @@ PHP. Задача 6
 
 PHP. ООП Задача 7
 Ссылка: https://github.com/IvanovIgorb/Planes
+
+PHP. MVC Задача 8
+Ссылка: https://github.com/IvanovIgorb/taskslist_MVC
