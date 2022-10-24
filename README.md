@@ -25,3 +25,6 @@ PHP. ООП Задача 7
 
 PHP. MVC Задача 8
 Ссылка: https://github.com/IvanovIgorb/taskslist_MVC
+
+Laravel. Задача 9 (Не закончено)
+Ссылка: https://github.com/IvanovIgorb/Laravel
